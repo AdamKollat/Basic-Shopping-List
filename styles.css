@@ -1,0 +1,11 @@
+.close {
+    color: red;
+}
+
+.checked {
+    text-decoration: line-through;
+}
+
+.hide {
+    display: none;
+}
